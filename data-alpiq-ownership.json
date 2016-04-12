@@ -1,0 +1,370 @@
+{
+	"nodes": [{
+		"name": "Alpiq"
+	}, {
+		"name": "EOS Holding SA"
+	}, {
+		"name": "EDF Alpes Investissement Sarl"
+	},{
+		"name": "Aziende Industriali di Lugano (AIL)"
+	}, {
+		"name": "IBAarau"
+	}, {
+		"name": "Wasserwerke Zug (WWZ)"
+	},{
+		"name": "EnBW (DE)"
+	}, {
+		"name": "Elektra Birseck in Münchenstein (EBM)"
+	}, {
+		"name": "Elektra Baselland Liestal (EBL)"
+	},{
+		"name": "Kanton Solothurn"
+	},{
+		"name": "Streubesitz"
+	},{
+		"name": "Romande Energie"
+	},{
+		"name": "Groupe E"
+	},{
+		"name": "Services Industriels de Genève"
+	},{
+		"name": "FMV"
+	},{
+		"name": "Gemeinde Lausanne"
+	},{
+		"name": "EDF Electricité de France"
+	},{
+		"name": "Gemeinde Lugano"
+	},{
+		"name": "Gemeinde Aarau"
+	},{
+		"name": "Gemeinden im Versorgungsgebiet"
+	},{
+		"name": "Private Aktionäre"
+	},{
+		"name": "Kanton Zug"
+	},{
+		"name": ""
+	},{
+		"name": "Holdigaz SA Vevey"
+	},{
+		"name": "Kanton Waadt"
+	},{
+		"name": ""
+	},{
+		"name": "Waadtländer Kantonalbank"
+	},{
+		"name": "Eigene Anteile"
+	},{
+		"name": "Groupe E"
+	},{
+		"name": "BKW Energie"
+	},{
+		"name": ""
+	},{
+		"name": ""
+	},{
+		"name": "Viteos"
+	},{
+		"name": "Neuenburger Kantonalbank"
+	},{
+		"name": "Kanton Freiburg"
+	},{
+		"name": ""
+	},{
+		"name": "Kanton Neuenburg"
+	},{
+		"name": ""
+	},{
+		"name": "Société électrique du Val-de-Travers"
+	},{
+		"name": "Personal"
+	},{
+		"name": "Kanton Genf"
+	},{
+		"name": "Gemeinde Genf"
+	},{
+		"name": ""
+	},{
+		"name": "Kanton Wallis"
+	},{
+		"name": "Staat Frankreich"
+	},{
+		"name": ""
+	},{
+		"name": ""
+	},{
+		"name": ""
+	},{
+		"name": ""
+	},{
+		"name": "E.ON SE"
+	},{
+		"name": "Kanton Bern"
+	},{
+		"name": ""
+	},{
+		"name": ""
+	},{
+		"name": "Gemeinde Neuenburg"
+	},{
+		"name": "Gemeinde La Chaux-de-Fonds"
+	},{
+		"name": "Gemeinde Le Locle"
+	},{
+		"name": ""
+	},{
+		"name": ""
+	},{
+		"name": "BlackRock Inc."
+	},{
+		"name": "Staat Norwegen"
+	},{
+		"name": ""
+	}],
+	"links": [{
+		"source": 0,
+		"target": 1,
+		"value": 0.3138
+	},{
+		"source": 0,
+		"target": 2,
+		"value": 0.25
+	},{
+		"source": 0,
+		"target": 3,
+		"value": 0.0212
+	},{
+		"source": 0,
+		"target": 4,
+		"value": 0.02
+	},{
+		"source": 0,
+		"target": 5,
+		"value": 0.0091
+	},{
+		"source": 0,
+		"target": 6,
+		"value": 0.023
+	},{
+		"source": 0,
+		"target": 7,
+		"value": 0.1363
+	},{
+		"source": 0,
+		"target": 8,
+		"value": 0.0712
+	},{
+		"source": 0,
+		"target": 9,
+		"value": 0.056
+	},{
+		"source": 0,
+		"target": 10,
+		"value": 0.0994
+	},{
+		"source": 1,
+		"target": 11,
+		"value": 0.09322998
+	},{
+		"source": 1,
+		"target": 12,
+		"value": 0.07245642
+	},{
+		"source": 1,
+		"target": 13,
+		"value": 0.06398382
+	},{
+		"source": 1,
+		"target": 14,
+		"value": 0.01904766
+	},{
+		"source": 1,
+		"target": 15,
+		"value": 0.06508212
+	},{
+		"source": 2,
+		"target": 16,
+		"value": 0.25
+	},{
+		"source": 3,
+		"target": 17,
+		"value": 0.0212
+	},{
+		"source": 4,
+		"target": 18,
+		"value": 0.019
+	},{
+		"source": 4,
+		"target": 19,
+		"value": 0.0005
+	},{
+		"source": 4,
+		"target": 20,
+		"value": 0.0005
+	},{
+		"source": 5,
+		"target": 21,
+		"value": 0.00273
+	},{
+		"source": 5,
+		"target": 20,
+		"value": 0.00637
+	},{
+		"source": 11,
+		"target": 23,
+		"value": 0.002349395
+	},{
+		"source": 11,
+		"target": 24,
+		"value": 0.035986772
+	},{
+		"source": 11,
+		"target": 19,
+		"value": 0.013136104
+	},{
+		"source": 11,
+		"target": 26,
+		"value": 0.003085912
+	},{
+		"source": 11,
+		"target": 27,
+		"value": 0.009276383
+	},{
+		"source": 11,
+		"target": 28,
+		"value": 0.005407339
+	},{
+		"source": 11,
+		"target": 29,
+		"value": 0.004661499
+	},{
+		"source": 11,
+		"target": 10,
+		"value": 0.019326575
+	},{
+		"source": 12,
+		"target": 29,
+		"value": 0.0072456
+	},{
+		"source": 12,
+		"target": 32,
+		"value": 0.0018484
+	},{
+		"source": 12,
+		"target": 33,
+		"value": 0.0002637
+	},{
+		"source": 12,
+		"target": 34,
+		"value": 0.0569109
+	},{
+		"source": 12,
+		"target": 27,
+		"value": 0.0039735
+	},{
+		"source": 12,
+		"target": 36,
+		"value": 0.0013020
+	},{
+		"source": 12,
+		"target": 19,
+		"value": 0.0006057
+	},{
+		"source": 12,
+		"target": 38,
+		"value": 0.0000696
+	},{
+		"source": 12,
+		"target": 39,
+		"value": 0.0002369
+	},{
+		"source": 13,
+		"target": 40,
+		"value": 0.0398510
+	},{
+		"source": 13,
+		"target": 41,
+		"value": 0.0217369
+	},{
+		"source": 13,
+		"target": 19,
+		"value": 0.0108685
+	},{
+		"source": 14,
+		"target": 43,
+		"value": 0.01904766
+	},{
+		"source": 16,
+		"target": 44,
+		"value": 0.21235
+	},{
+		"source": 16,
+		"target": 10,
+		"value": 0.03325
+	},{
+		"source": 16,
+		"target": 39,
+		"value": 0.0041
+	},{
+		"source": 16,
+		"target": 27,
+		"value": 0.0003
+	},{
+		"source": 29,
+		"target": 28,
+		"value": 0.000724564
+	},{
+		"source": 29,
+		"target": 49,
+		"value": 0.000481835
+	},{
+		"source": 29,
+		"target": 50,
+		"value": 0.00380686
+	},{
+		"source": 29,
+		"target": 27,
+		"value": 0.000589071
+	},{
+		"source": 29,
+		"target": 10,
+		"value": 0.001643312
+	},{
+		"source": 32,
+		"target": 53,
+		"value": 0.000868731
+	},{
+		"source": 32,
+		"target": 54,
+		"value": 0.000665411
+	},{
+		"source": 32,
+		"target": 55,
+		"value": 0.000277254
+	},{
+		"source": 32,
+		"target": 19,
+		"value": 0.0000369673
+	},{
+		"source": 33,
+		"target": 36,
+		"value": 0.000263741
+	},{
+		"source": 49,
+		"target": 10,
+		"value": 0.0004231477
+	},{
+		"source": 49,
+		"target": 58,
+		"value": 0.0000329093
+	},{
+		"source": 49,
+		"target": 59,
+		"value": 0.0000140214
+	},{
+		"source": 49,
+		"target": 27,
+		"value": 0.0000117086
+	}]
+}
